@@ -10,8 +10,8 @@ The three new columns are added to MoM output:
  - VIIRS_impactpop: the population impacted the flooded area extracted from VIIRS image
  - "VIIRS_impactpop_percent: VIIRS_impactpop / Totalpop (%)
 
-The file is renamed the following way:
-MoM output:
+The file is renamed the following way:  
+MoM output:   
 Final_Attributes_2022122606HWRF+20221225DFO+20221225VIIRSUpdated.csv  
 MoM output with VIIRS population columns:  
 Final_Attributes_2022122606HWRF+20221225DFO+20221225VIIRS_PopUpdated.csv  
